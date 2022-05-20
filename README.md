@@ -1,1 +1,1 @@
-[https://challenge3.github.io](https://github.com/lamnong/challenge3.github.io)
+[https://challenge3.github.io](https://lamnong.github.io/challenge3.github.io/)
