@@ -15,7 +15,7 @@ function writePassword() {
 
 // Prompts that come up after you click generate password
 function generatePassword() {
-  var passwordLength = prompt("Please enter the length of password. It must be at least 8 and less than 128.");
+  var passwordLength = prompt("Please enter the length of password. It must be at least 4 and less than 128.");
   var numbers = confirm("At least a number have to be in your password?");
   var lowerCases = confirm("At least a lowercase have to inbe your password?");
   var upperCases = confirm("At least a uppercase have to be in your password?");
